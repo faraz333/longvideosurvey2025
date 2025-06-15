@@ -8,10 +8,10 @@ https://github.com/FoundationVision/FlashVideo
 https://github.com/microsoft/Reducio-VAE
 4) Goku
 https://saiyan-world.github.io/goku/
-ScaleFusion
+5) ScaleFusion
 https://mlsys.org/virtual/2025/poster/3252
-ARLON: Boosting Diffusion Transformers With Autoregressive Models for Long Video Generation
+6) ARLON: Boosting Diffusion Transformers With Autoregressive Models for Long Video Generation
 https://arlont2v.github.io/
-SlowFast-VGen
+7) SlowFast-VGen
 https://slowfast-vgen.github.io/
 
