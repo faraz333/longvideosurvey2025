@@ -50,6 +50,37 @@ https://github.com/atomo-video/atomo-video.github.io
 https://warranweng.github.io/art.v/
 25) Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models
 https://github.com/xichenpan/ARLDM
-26) VidGen-1M
-https://github.com/xichenpan/ARLDM      
-
+26) MM diffusion   
+https://github.com/researchmm/MM-Diffusion
+27) Upscale-A-Video
+https://github.com/sczhou/Upscale-A-Video
+28) mochi
+https://github.com/genmoai/mochi
+29) VideoCrafter2
+https://ailab-cvc.github.io/videocrafter2/ 
+30) EvalCrafter
+https://evalcrafter.github.io/
+31) FlowVid
+https://jeff-liangf.github.io/projects/flowvid/
+32) VideoBooth
+https://github.com/Vchitect/VideoBooth
+33) InstructVideo
+https://instructvideo.github.io/
+34) Snap Video
+https://snap-research.github.io/snapvideo/
+35) Fairy: Fast Parallelized Instruction-Guided Video-to-Video Synthesis
+https://fairy-video2video.github.io/
+36) AVID: Any-Length Video Inpainting with Diffusion Mode
+https://github.com/zhang-zx/AVID
+37) VGen
+https://github.com/ali-vilab/VGen
+38) BIVDiff: A Training-Free Framework for General-Purpose Video Synthesis via Bridging Image and Video Diffusion Models
+https://github.com/MCG-NJU/BIVDiff
+39) FlowZero
+https://flowzero-video.github.io/
+40) ImageGen
+https://deepmind.google/models/imagen/
+41) Peekaboo
+https://github.com/microsoft/Peekaboo
+42) Generating Long Videos of Dynamic Scenes (LongVideoGAN)
+https://github.com/NVlabs/long-video-gan
