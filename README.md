@@ -50,7 +50,7 @@ https://github.com/atomo-video/atomo-video.github.io
 https://warranweng.github.io/art.v/
 25) Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models
 https://github.com/xichenpan/ARLDM
-26) MM diffusion   
+26) MM diffusion
 https://github.com/researchmm/MM-Diffusion
 27) Upscale-A-Video
 https://github.com/sczhou/Upscale-A-Video
