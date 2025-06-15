@@ -92,3 +92,21 @@ https://github.com/UMass-Embodied-AGI/3D-VLA
 https://mbzuai-oryx.github.io/CVRR-Evaluation-Suite/
 46) Dreamix: Video Diffusion Models are General Video Editors
 https://dreamix-video-editing.github.io/
+47) StoryDiffusion
+https://storydiffusion.github.io/
+48) MeBt
+https://github.com/Ugness/MeBT
+49) Phenaki
+https://phenaki.github.io/
+50) DIGAN
+https://github.com/sihyun-yu/digan
+51) StyleGAN-V
+https://github.com/universome/stylegan-v
+52) Make Pixel Dance
+https://makepixelsdance.github.io/
+53) NUWA-Infinity
+https://github.com/microsoft/NUWA/blob/main/NUWAInfinity.md
+54) CogVideoX
+https://github.com/THUDM/CogVideo
+55) FlexiFilm
+https://github.com/Y-ichen/FlexiFilm?tab=readme-ov-file
