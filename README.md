@@ -126,5 +126,9 @@ https://github.com/sihyun-yu/digan
 https://github.com/AILab-CVC/FreeNoise
 63) VersVideo
 https://jinxixiang.github.io/versvideo/
-64) https://github.com/YBYBZhang/ControlVideo
+64) Control Video
 https://github.com/YBYBZhang/ControlVideo
+65)  Conditional Image-to-Video Generation with Latent Flow Diffusion Models
+     https://github.com/nihaomiao/CVPR23_LFDM
+66) Glober
+https://github.com/iva-mzsun/GLOBER     
