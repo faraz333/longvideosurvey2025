@@ -131,4 +131,34 @@ https://github.com/YBYBZhang/ControlVideo
 65)  Conditional Image-to-Video Generation with Latent Flow Diffusion Models
      https://github.com/nihaomiao/CVPR23_LFDM
 66) Glober
-https://github.com/iva-mzsun/GLOBER     
+https://github.com/iva-mzsun/GLOBER
+67) ControlNet
+https://github.com/lllyasviel/ControlNet
+68) Sora
+https://github.com/burmba/Open-Ai-Sora
+69) Make A Story
+https://github.com/ubc-vision/Make-A-Story
+70) MAVIN
+https://github.com/18445864529/MAVIN
+71) SEINE
+https://github.com/Vchitect/SEINE
+72) VideoCrafter
+https://github.com/AILab-CVC/VideoCrafter
+73) WorldGPT
+https://github.com/DCDmllm/WorldGPT
+74)  MicroCinema
+ https://wangyanhui666.github.io/MicroCinema.github.io/
+75) Vlogger
+https://github.com/Vchitect/Vlogger
+76) LLM-grounded Video Diffusion Models
+https://github.com/TonyLianLong/LLM-groundedVideoDiffusion
+77) Mora
+https://github.com/lichao-sun/Mora
+78) MEVG
+https://kuai-lab.github.io/eccv2024mevg/
+79) Free Bloom
+https://github.com/SooLab/Free-Bloom
+80) Gen-L-Video
+https://g-u-n.github.io/projects/gen-long-video/index.html
+81) VideoDirectorGPT
+https://github.com/HL-hanlin/VideoDirectorGPT
