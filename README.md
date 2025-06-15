@@ -26,6 +26,10 @@ https://github.com/Tianhao-Qi/Mask2DiT
 https://snap-research.github.io/hpdm/
 13)HunyuanVideo: A Systematic Framework For Large Video Generation Model
 https://github.com/Tencent-Hunyuan/HunyuanVideo
+14) Kubrick: Multimodal Agent Collaborations for Video Generation
+https://kubrick9.github.io/
+15) Video-Infinity:
+https://github.com/Yuanshi9815/Video-Infinity     
 
     
       
