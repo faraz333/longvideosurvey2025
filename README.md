@@ -30,7 +30,15 @@ https://github.com/Tencent-Hunyuan/HunyuanVideo
 https://kubrick9.github.io/
 15) Video-Infinity:
 https://github.com/Yuanshi9815/Video-Infinity     
-
-    
+16) Moonshot
+https://showlab.github.io/Moonshot/
+17) RV GAN
+https://github.com/GuptaSonam/RV-GAN
+18) VideoTetris
+https://github.com/YangLing0818/VideoTetris
+19) AtomoVideo
+https://atomo-video.github.io/
+20) ART•V: Auto-Regressive Text-to-Video
+https://warranweng.github.io/art.v/    
       
 
