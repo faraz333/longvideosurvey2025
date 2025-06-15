@@ -39,6 +39,17 @@ https://github.com/YangLing0818/VideoTetris
 19) AtomoVideo
 https://atomo-video.github.io/
 20) ART•V: Auto-Regressive Text-to-Video
-https://warranweng.github.io/art.v/    
-      
+https://warranweng.github.io/art.v/
+21) Vidgen
+https://github.com/Capstonelingam/vidgen
+22) VideoTetris
+https://github.com/YangLing0818/VideoTetris
+23) AtomoVideo
+https://github.com/atomo-video/atomo-video.github.io
+24) ART•V: Auto-Regressive Text-to-Video
+https://warranweng.github.io/art.v/
+25) Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models
+https://github.com/xichenpan/ARLDM
+26) VidGen-1M
+https://github.com/xichenpan/ARLDM      
 
