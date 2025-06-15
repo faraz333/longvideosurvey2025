@@ -84,3 +84,11 @@ https://deepmind.google/models/imagen/
 https://github.com/microsoft/Peekaboo
 42) Generating Long Videos of Dynamic Scenes (LongVideoGAN)
 https://github.com/NVlabs/long-video-gan
+43) MVBench
+https://github.com/OpenGVLab/Ask-Anything/blob/main/video_chat2/MVBENCH.md
+44) 3D-VLA
+https://github.com/UMass-Embodied-AGI/3D-VLA
+45) Complex Video Reasoning and Robustness Evaluation Suite for Video-LMMs
+https://mbzuai-oryx.github.io/CVRR-Evaluation-Suite/
+46) Dreamix: Video Diffusion Models are General Video Editors
+https://dreamix-video-editing.github.io/
