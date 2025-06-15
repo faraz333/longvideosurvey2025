@@ -110,3 +110,9 @@ https://github.com/microsoft/NUWA/blob/main/NUWAInfinity.md
 https://github.com/THUDM/CogVideo
 55) FlexiFilm
 https://github.com/Y-ichen/FlexiFilm?tab=readme-ov-file
+56) Make It 4D
+https://github.com/leoShen917/Make-It-4D
+57) LayoutGPT
+https://layoutgpt.github.io/
+58) MCVD
+https://mask-cond-video-diffusion.github.io/
