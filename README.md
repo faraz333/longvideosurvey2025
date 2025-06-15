@@ -116,3 +116,15 @@ https://github.com/leoShen917/Make-It-4D
 https://layoutgpt.github.io/
 58) MCVD
 https://mask-cond-video-diffusion.github.io/
+59) SceneScape
+https://github.com/RafailFridman/SceneScape
+60) Long Video Generation with Time-Agnostic VQGAN and Time-Sensitive Transformer
+https://songweige.github.io/projects/tats/
+61) DIGAN
+https://github.com/sihyun-yu/digan
+62) FreeNoise: Tuning-Free Longer Video Diffusion via Noise Rescheduling
+https://github.com/AILab-CVC/FreeNoise
+63) VersVideo
+https://jinxixiang.github.io/versvideo/
+64) https://github.com/YBYBZhang/ControlVideo
+https://github.com/YBYBZhang/ControlVideo
