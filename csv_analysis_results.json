@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Make a video",
+    "year": "2005",
+    "conference": "ICCV 2023",
+    "url": "https://arxiv.org/search/?query=make+a+video",
+    "source": "arXiv"
+  },
+  {
+    "title": "Vlogger: Make Your Dream A Vlog",
+    "year": "2005",
+    "conference": "arXiv",
+    "url": "https://arxiv.org/search/?query=vlogger+make+your+dream+a+vlog",
+    "source": "arXiv"
+  },
+  {
+    "title": "Align your Latents",
+    "year": "2005",
+    "conference": "ECCV 2022",
+    "url": "https://arxiv.org/search/?query=align+your+latents",
+    "source": "arXiv"
+  },
+  {
+    "title": "Tell Me What Happened: Unifying Text-guided Video Completion",
+    "year": "2005",
+    "conference": "CVPR 2022",
+    "url": "https://arxiv.org/search/?query=tell+me+what+happened+unifying+textguided+video+completion",
+    "source": "arXiv"
+  },
+  {
+    "title": "VIDEO DIFFUSION MODELS",
+    "year": "2005",
+    "conference": "CVPR 2024",
+    "url": "https://arxiv.org/search/?query=video+diffusion+models",
+    "source": "arXiv"
+  },
+  {
+    "title": "Long Video Generation with Time-AgnosticVQGAN",
+    "year": "2005",
+    "conference": "NEURIPS 2024",
+    "url": "https://arxiv.org/search/?query=long+video+generation+with+timeagnosticvqgan",
+    "source": "arXiv"
+  },
+  {
+    "title": "Flexible Diffusion Modeling of Long Videos",
+    "year": "2005",
+    "conference": "arXiv",
+    "url": "https://arxiv.org/search/?query=flexible+diffusion+modeling+of+long+videos",
+    "source": "arXiv"
+  },
+  {
+    "title": "MCVD: Masked Conditional Video Diffusion",
+    "year": "2005",
+    "conference": "NEURIPS 2022",
+    "url": "https://arxiv.org/search/?query=mcvd+masked+conditional+video+diffusion",
+    "source": "arXiv"
+  },
+  {
+    "title": "LayoutGPT: Compositional Visual Planning",
+    "year": "2005",
+    "conference": "NEURIPS 2023",
+    "url": "https://arxiv.org/search/?query=layoutgpt+compositional+visual+planning",
+    "source": "arXiv"
+  },
+  {
+    "title": "Make-It-4D: Synthesizing a Consistent Long-Term Dynamic Scene",
+    "year": "2005",
+    "conference": "arXiv",
+    "url": "https://arxiv.org/search/?query=makeit4d+synthesizing+a+consistent+longterm+dynamic+scene",
+    "source": "arXiv"
+  }
+]

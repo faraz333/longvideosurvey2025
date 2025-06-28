@@ -1,0 +1,296 @@
+[
+  {
+    "title": "Make a video",
+    "year": "2005",
+    "conference": "ICCV 2023",
+    "url": "https://arxiv.org/search/?query=make+a+video",
+    "source": "arXiv"
+  },
+  {
+    "title": "Vlogger: Make Your Dream A Vlog",
+    "year": "2005",
+    "conference": "arXiv",
+    "url": "https://arxiv.org/search/?query=vlogger+make+your+dream+a+vlog",
+    "source": "arXiv"
+  },
+  {
+    "title": "Align your Latents",
+    "year": "2005",
+    "conference": "ECCV 2022",
+    "url": "https://arxiv.org/search/?query=align+your+latents",
+    "source": "arXiv"
+  },
+  {
+    "title": "Tell Me What Happened: Unifying Text-guided Video Completionvia Multimodal Masked Video Generation",
+    "year": "2005",
+    "conference": "CVPR 2022",
+    "url": "https://arxiv.org/search/?query=tell+me+what+happened+unifying+textguided+video+completionvia+multimodal+masked",
+    "source": "arXiv"
+  },
+  {
+    "title": "VIDEO DIFFUSION MODELS",
+    "year": "2005",
+    "conference": "CVPR 2024",
+    "url": "https://arxiv.org/search/?query=video+diffusion+models",
+    "source": "arXiv"
+  },
+  {
+    "title": "Long Video Generation with Time-AgnosticVQGAN and Time-Sensitive Transformer",
+    "year": "2005",
+    "conference": "CVPR2023",
+    "url": "https://arxiv.org/search/?query=long+video+generation+with+timeagnosticvqgan+and+timesensitive+transformer",
+    "source": "arXiv"
+  },
+  {
+    "title": "Computer Vision – ECCV",
+    "year": "2005",
+    "conference": "ECCV 2020",
+    "url": "https://arxiv.org/search/?query=computer+vision+eccv",
+    "source": "arXiv"
+  },
+  {
+    "title": "Flexible Diffusion Modeling of Long Videos",
+    "year": "2005",
+    "conference": "arXiv",
+    "url": "https://arxiv.org/search/?query=flexible+diffusion+modeling+of+long+videos",
+    "source": "arXiv"
+  },
+  {
+    "title": "MCVD: Masked Conditional Video Diffusion forPrediction, Generation, and Interpolation",
+    "year": "2005",
+    "conference": "NEURIPS 2022",
+    "url": "https://arxiv.org/search/?query=mcvd+masked+conditional+video+diffusion+forprediction+generation+and+interpolation",
+    "source": "arXiv"
+  },
+  {
+    "title": "LayoutGPT: Compositional Visual Planning andGeneration with Large Language Models",
+    "year": "2005",
+    "conference": "NEURIPS 2023",
+    "url": "https://arxiv.org/search/?query=layoutgpt+compositional+visual+planning+andgeneration+with+large+language+models",
+    "source": "arXiv"
+  },
+  {
+    "title": "Make-It-4D: Synthesizing a Consistent Long-Term Dynamic Scene Video from a Single Image",
+    "year": "2005",
+    "conference": "CVPR 2025",
+    "url": "https://arxiv.org/search/?query=makeit4d+synthesizing+a+consistent+longterm+dynamic+scene+video+from+a",
+    "source": "arXiv"
+  },
+  {
+    "title": "FlexiFilm: Long Video Generation with Flexible Conditions",
+    "year": "2005",
+    "conference": "ICML2023",
+    "url": "https://arxiv.org/search/?query=flexifilm+long+video+generation+with+flexible+conditions",
+    "source": "arXiv"
+  },
+  {
+    "title": "Make Pixels Dance: High-Dynamic Video Generation",
+    "year": "2005",
+    "conference": "NEURIPS 2023",
+    "url": "https://arxiv.org/search/?query=make+pixels+dance+highdynamic+video+generation",
+    "source": "arXiv"
+  },
+  {
+    "title": "Generating Long Videos of Dynamic Scenes (2023)Generating Long Videos of Dynamic Scenes",
+    "year": "2005",
+    "conference": "NEURIPS 2024",
+    "url": "https://arxiv.org/search/?query=generating+long+videos+of+dynamic+scenes+2023generating+long+videos+of",
+    "source": "arXiv"
+  },
+  {
+    "title": "StoryDiffusion: Consistent Self-Attention for Long-Range Image and Video Generation",
+    "year": "2005",
+    "conference": "arXiv",
+    "url": "https://arxiv.org/search/?query=storydiffusion+consistent+selfattention+for+longrange+image+and+video+generation",
+    "source": "arXiv"
+  },
+  {
+    "title": "AtomoVideo: High Fidelity Image-to-Video Generation",
+    "year": "2005",
+    "conference": "arXiv",
+    "url": "https://arxiv.org/search/?query=atomovideo+high+fidelity+imagetovideo+generation",
+    "source": "arXiv"
+  },
+  {
+    "title": "LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models",
+    "year": "2005",
+    "conference": "CVPR 2025",
+    "url": "https://arxiv.org/search/?query=lavie+highquality+video+generation+with+cascaded+latent+diffusion+models",
+    "source": "arXiv"
+  },
+  {
+    "title": "ANCF4g (2023) ICLR",
+    "year": "2005",
+    "conference": "ICLR 2021",
+    "url": "https://arxiv.org/search/?query=ancf4g+2023+iclr",
+    "source": "arXiv"
+  },
+  {
+    "title": "VideoBooth: Diffusion-based Video Generation with Image Prompts (2024)VideoBooth: Diffusion-based Video Generation with Image PromptsCVPR",
+    "year": "2005",
+    "conference": "arXiv",
+    "url": "https://arxiv.org/search/?query=videobooth+diffusionbased+video+generation+with+image+prompts+2024videobooth+diffusionbased+video",
+    "source": "arXiv"
+  },
+  {
+    "title": "High-Resolution Image Synthesis With Latent Diffusion Models CVPR",
+    "year": "2005",
+    "conference": "CVPR 2025",
+    "url": "https://arxiv.org/search/?query=highresolution+image+synthesis+with+latent+diffusion+models+cvpr",
+    "source": "arXiv"
+  },
+  {
+    "title": "Paper5027 Gen-L-Video 2023",
+    "year": "2005",
+    "conference": "arXiv",
+    "url": "https://arxiv.org/search/?query=paper5027+genlvideo+2023",
+    "source": "arXiv"
+  },
+  {
+    "title": "Free Bloom 2023",
+    "year": "2005",
+    "conference": "NEURIPS 2023",
+    "url": "https://arxiv.org/search/?query=free+bloom+2023",
+    "source": "arXiv"
+  },
+  {
+    "title": "Flow Zero 2023",
+    "year": "2005",
+    "conference": "ICLR 2024",
+    "url": "https://arxiv.org/search/?query=flow+zero+2023",
+    "source": "arXiv"
+  },
+  {
+    "title": "Video drafter 2024",
+    "year": "2005",
+    "conference": "ICLR 2025",
+    "url": "https://arxiv.org/search/?query=video+drafter+2024",
+    "source": "arXiv"
+  },
+  {
+    "title": "Czsdv-S4-w9)ICLR 2022VIDEO DIFFUSION MODELS 2023 2022",
+    "year": "2005",
+    "conference": "ICLR 2022",
+    "url": "https://arxiv.org/search/?query=czsdvs4w9iclr+2022video+diffusion+models+2023+2022",
+    "source": "arXiv"
+  },
+  {
+    "title": "SceneScape: Text-Driven Consistent Scene Generation(not related)",
+    "year": "2005",
+    "conference": "ECCV 2020",
+    "url": "https://arxiv.org/search/?query=scenescape+textdriven+consistent+scene+generationnot+related",
+    "source": "arXiv"
+  },
+  {
+    "title": "Cog Video 2023",
+    "year": "2005",
+    "conference": "arXiv",
+    "url": "https://arxiv.org/search/?query=cog+video+2023",
+    "source": "arXiv"
+  },
+  {
+    "title": "VideoGPT: Video Generation using VQ-VAE and Transformers (2021)",
+    "year": "2005",
+    "conference": "CVPR 2023",
+    "url": "https://arxiv.org/search/?query=videogpt+video+generation+using+vqvae+and+transformers+2021",
+    "source": "arXiv"
+  },
+  {
+    "title": "Meu2Zu ICLR 2024LongStory: Coherent, Complete and Length Controlled Long story Generation (2023)",
+    "year": "2005",
+    "conference": "ICLR 2024",
+    "url": "https://arxiv.org/search/?query=meu2zu+iclr+2024longstory+coherent+complete+and+length+controlled+long+story",
+    "source": "arXiv"
+  },
+  {
+    "title": "Nuero 2022peakaboo (2024)",
+    "year": "2005",
+    "conference": "arXiv",
+    "url": "https://arxiv.org/search/?query=nuero+2022peakaboo+2024",
+    "source": "arXiv"
+  },
+  {
+    "title": "Generating Long Videos of Dynamic Scenes",
+    "year": "2005",
+    "conference": "NEURIPS 2024",
+    "url": "https://arxiv.org/search/?query=generating+long+videos+of+dynamic+scenes",
+    "source": "arXiv"
+  },
+  {
+    "title": "VideoGPT: Video Generation using VQ-VAE and Transformers",
+    "year": "2005",
+    "conference": "CVPR 2023",
+    "url": "https://arxiv.org/search/?query=videogpt+video+generation+using+vqvae+and+transformers",
+    "source": "arXiv"
+  },
+  {
+    "title": "FIFO-Diffusion: Generating Infinite Videos from Text without Training",
+    "year": "2005",
+    "conference": "NEURIPS 2024",
+    "url": "https://arxiv.org/search/?query=fifodiffusion+generating+infinite+videos+from+text+without+training",
+    "source": "arXiv"
+  },
+  {
+    "title": "TI2V-Zero: Zero-Shot Image Conditioning for Text-to-Video Diffusion Models",
+    "year": "2005",
+    "conference": "CVPR 2024",
+    "url": "https://arxiv.org/search/?query=ti2vzero+zeroshot+image+conditioning+for+texttovideo+diffusion+models",
+    "source": "arXiv"
+  },
+  {
+    "title": "GL8Lu CVPR 2024Language Model Beats Diffusion - Tokenizer is key to visual generation",
+    "year": "2005",
+    "conference": "CVPR 2024",
+    "url": "https://arxiv.org/search/?query=gl8lu+cvpr+2024language+model+beats+diffusion+tokenizer+is+key+to",
+    "source": "arXiv"
+  },
+  {
+    "title": "Meu2Zu ICLR 2024LongStory: Coherent, Complete and Length Controlled Long story Generation",
+    "year": "2005",
+    "conference": "ICLR 2024",
+    "url": "https://arxiv.org/search/?query=meu2zu+iclr+2024longstory+coherent+complete+and+length+controlled+long+story",
+    "source": "arXiv"
+  },
+  {
+    "title": "X7qAL8O9YI 2024VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation",
+    "year": "2005",
+    "conference": "ICLR 2024",
+    "url": "https://arxiv.org/search/?query=x7qal8o9yi+2024videofusion+decomposed+diffusion+models+for+highquality+video+generation",
+    "source": "arXiv"
+  },
+  {
+    "title": "Jb_Bvw9Uoix(2023) 2023How Good is my Video LMM? Complex Video Reasoning and Robustness Evaluation Suite for Video-LMMs",
+    "year": "2005",
+    "conference": "arXiv",
+    "url": "https://arxiv.org/search/?query=jb_bvw9uoix2023+2023how+good+is+my+video+lmm+complex+video+reasoning",
+    "source": "arXiv"
+  },
+  {
+    "title": "UrJVEloeWGenerating Long Videos of Dynamic Scenes",
+    "year": "2005",
+    "conference": "NEURIPS 2024",
+    "url": "https://arxiv.org/search/?query=urjveloewgenerating+long+videos+of+dynamic+scenes",
+    "source": "arXiv"
+  },
+  {
+    "title": "TA2V: Text-Audio Guided Video Generation",
+    "year": "2005",
+    "conference": "arXiv",
+    "url": "https://arxiv.org/search/?query=ta2v+textaudio+guided+video+generation",
+    "source": "arXiv"
+  },
+  {
+    "title": "RV-GAN: Recurrent GAN for Unconditional Video Generation",
+    "year": "2005",
+    "conference": "CVPR 2022",
+    "url": "https://arxiv.org/search/?query=rvgan+recurrent+gan+for+unconditional+video+generation",
+    "source": "arXiv"
+  },
+  {
+    "title": "A_Dataset_of_Text_Prompts_Videos_and_Video_Quality_Metrics_from_Generative_Text-to-Video_AI_Models-2024Generating Videos from Stories Using Conditional GAN",
+    "year": "2005",
+    "conference": "ECCV 2022",
+    "url": "https://arxiv.org/search/?query=a_dataset_of_text_prompts_videos_and_video_quality_metrics_from_generative_texttovideo_ai_models2024generating+videos+from+stories+using+conditional+gan",
+    "source": "arXiv"
+  }
+]

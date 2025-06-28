@@ -1,0 +1,110 @@
+% =============================================================================
+% REFORMATTED AND REORGANIZED LATEX TABLES
+% =============================================================================
+
+% =============================================================================
+% TABLE 1: COMPREHENSIVE VIDEO GENERATION BENCHMARK (2021-2023)
+% =============================================================================
+\begin{longtable}{lccccccc}
+    \caption{Comprehensive benchmark comparison of video generation models ordered by publication year (2021-2023)}
+    \label{tab:complete_video_metrics_v4}\\
+    \toprule
+    \textbf{Model (Citation)} & \textbf{Year} & \textbf{Zero-Shot} & \textbf{Samples} & \textbf{FVD} & \textbf{FID} & \textbf{CLIPSIM} & \textbf{IS} \\ 
+    \midrule
+    \endfirsthead
+    
+    \multicolumn{8}{c}%
+    {{\bfseries \tablename\ \thetable{} -- continued from previous page}} \\
+    \toprule
+    \textbf{Model (Citation)} & \textbf{Year} & \textbf{Zero-Shot} & \textbf{Samples} & \textbf{FVD} & \textbf{FID} & \textbf{CLIPSIM} & \textbf{IS} \\ 
+    \midrule
+    \endhead
+    
+    \bottomrule
+    \multicolumn{8}{r}{{Continued on next page}} \\
+    \endfoot
+    
+    \bottomrule
+    \multicolumn{8}{l}{\footnotesize
+    \begin{tabular}{ll}
+    FVD: UCF-101 metrics (from Video LDM comparison table) & FID/CLIPSIM: MSR-VTT metrics \\
+    BAIR FVD scores shown in FVD column & X: Not applicable, Yes: Zero-shot capable \\
+    \textsuperscript{†}ModelScope replication results & Bold: Best results in each category \\
+    \end{tabular}}
+    \endlastfoot
+    
+    \multicolumn{8}{l}{\textit{2021 Models}} \\
+    GODIVA \cite{wu2021godivageneratingopendomainvideos} & 2021 & No & 30 & -- & -- & 0.2402 & -- \\
+    NÜWA \cite{wu2021nuwavisualsynthesispretraining} & 2021 & No & -- & -- & 47.68 & 0.2439 & -- \\
+    NUWA \cite{wu2021nuwa} & 2021 & X & 0.97M & -- & 28.46 & -- & -- \\
+    VideoGPT \cite{yan2021videogptvideogenerationusing} & 2021 & -- & -- & 103.3 & 24.69 & -- & 24.69 \\
+    Video Transformer \cite{arnab2021vivitvideovisiontransformer} & 2021 & -- & -- & 94 ± 2 & -- & -- & -- \\
+    DVD-GAN \cite{clark2019adversarialvideogenerationcomplex} & 2019 & -- & -- & -- & 32.97 & -- & 32.97 \\
+    DVD-GAN-FP \cite{luc2021transformationbasedadversarialvideoprediction} & 2021 & -- & -- & 109.8 & -- & -- & -- \\
+    TGAN-v2 \cite{Saito_2020} & 2018 & -- & -- & 1209 & 34.97 & -- & 28.87 \\
+    MoCoGAN \cite{tulyakov2017mocogandecomposingmotioncontent} & 2018 & -- & -- & -- & 26998 & -- & 12.42 \\
+    TGAN-F \cite{saito2017temporalgenerativeadversarialnets} & 2021 & -- & -- & -- & 7817 & -- & 22.91 \\
+    SV2P \cite{babaeizadeh2018stochasticvariationalvideoprediction} & 2017 & -- & -- & 262.5 & -- & -- & -- \\
+    LVT \cite{huang2021lvt} & 2017 & -- & -- & 125.8 & -- & -- & -- \\
+    SAVP \cite{lee2018savp} & 2021 & -- & -- & 116.4 & -- & -- & -- \\
+    TrIVD-GAN-FP \cite{clark2021dvdgan} & 2021 & -- & -- & 103.3 & -- & -- & -- \\
+    VGAN \cite{vondrick2016vgan} & 2021 & -- & -- & -- & -- & -- & 8.31 \\
+    TGAN \cite{saito2017tgan} & 2021 & -- & -- & -- & -- & -- & 11.85 \\
+    Progressive VGAN \cite{vondrick2016vgan} & 2021 & -- & -- & -- & -- & -- & 14.56 \\
+    
+    \multicolumn{8}{l}{\textit{2022 Models}} \\
+    Make-A-Video \cite{singer2022makeavideo} & 2022 & Yes & 1 & 367.23 & 13.17 & 0.3049 & 33.00 \\
+    CogVideo (Chinese) \cite{hong2022cogvideo} & 2022 & Yes & 1 & 701.59 & 23.59 & 0.2614 & -- \\
+    CogVideo (English) \cite{hong2022cogvideo} & 2022 & Yes & 1 & 701.59 & -- & 0.2631 & 25.27 \\
+    VideoFusion \cite{luo2023videofusion} & 2022 & -- & -- & 639.90 & -- & -- & -- \\
+    LVDM \cite{he2022lvdm} & 2022 & -- & -- & 641.80 & -- & -- & -- \\
+    Video Diffusion \cite{ho2022video} & 2022 & -- & -- & -- & 295 & -- & 57 \\
+    Phenaki \cite{villegas2022phenaki} & 2022 & Yes & 15M & -- & 37.74 & -- & -- \\
+    
+    \multicolumn{8}{l}{\textit{2023 Models}} \\
+    PYoCo \cite{blattmann2023pyoco} & 2023 & -- & -- & 355.19 & -- & \textbf{0.3204} & \textbf{47.76} \\
+    VideoPoet (Task adapt) \cite{guo2023videopoet} & 2023 & -- & -- & -- & -- & 0.3123 & -- \\
+    VideoPoet (Pretrain) \cite{guo2023videopoet} & 2023 & -- & -- & 355 & -- & 0.3049 & 38.44 \\
+    VideoFactory \cite{wang2023videofactory} & 2023 & -- & -- & 410.00 & -- & 0.3005 & -- \\
+    ModelScope \cite{chen2023modelscope} & 2023 & -- & -- & 410.00 & 12.32 & 0.2930 & -- \\
+    LaViE \cite{ma2023lavie} & 2023 & -- & -- & 526.30 & -- & 0.2949 & -- \\
+    VidRD \cite{hu2023vidrd} & 2023 & -- & -- & 363.19 & -- & -- & 39.37 \\
+    Video LDM \cite{blattmann2023videoldm} & 2023 & -- & -- & 550.61 & -- & 0.2929 & 33.45 \\
+    Vlogger \cite{li2023vlogger} & 2023 & Yes & 10M & 292.43 & 37.23 & -- & -- \\
+    MagicVideo \cite{zhao2023magicvideo} & 2023 & -- & -- & 699.00 & -- & -- & -- \\
+    ModelScopeT2V \cite{chen2023modelscope} & 2023 & -- & -- & -- & 12.32 & 0.2909 & -- \\
+    ModelScope\textsuperscript{†} \cite{chen2023modelscope} & 2023 & -- & -- & 984 & -- & -- & -- \\
+    VideoDirectorGPT \cite{chen2023videodirectorgpt} & 2023 & -- & -- & -- & 12.22 & 0.2860 & -- \\
+    InternVid \cite{wang2023internvid} & 2023 & -- & -- & 617 & -- & 0.2951 & 21.04 \\
+    T2V \cite{chen2023t2v} & 2023 & X & X & -- & 82.13 & -- & -- \\
+    TFGAN \cite{chen2023tfgan} & 2023 & X & X & -- & 31.76 & -- & -- \\
+    Show-1 \cite{show1} & -- & -- & -- & 394.46 & -- & -- & -- \\
+    MicroCinema \cite{microcinema} & -- & -- & -- & 342.86 & -- & -- & -- \\
+    Lumiere \cite{lumiere} & -- & -- & -- & 332.49 & -- & -- & -- \\
+    Reducio-DiT & -- & -- & -- & 318.50 & -- & -- & -- \\
+    \end{longtable}
+    
+    
+    
+    % =============================================================================
+    % TABLE 4: VIDEO LDM COMPARISON
+    % =============================================================================
+    \begin{table}[H]
+    \centering
+    \caption{Quantitative comparison with state-of-the-art video LDMs.}
+    \label{tab:video_ldms_comparison}
+    \begin{tabular}{lccccccc}
+    \toprule
+    Model & Params & VBench & FVD$\downarrow$ (UCF-101) & FVD$\downarrow$ (MSR-VTT) & Throughput (256$\times$256) & Throughput (1024$\times$1024) & GPU Hours (A100) \\
+    \midrule
+    Make-A-Video \cite{makeavideo} & - & - & 367.23 & - & - & - & - \\
+    CogVideo \cite{cogvideo} & 7.8B & 67.01 & 701.59 & 1294 & 0.0023 & OOM & $>$368K \\
+    Show-1 \cite{show1} & 1.7B & 78.93 & 394.46 & 538.0 & 0.0016 & OOM & $>$56K \\
+    Lavie \cite{lavie} & 1B & 77.08 & 526.30 & - & 0.1838 & 0.0039 & - \\
+    MicroCinema \cite{microcinema} & 2B & - & 342.86 & 377.4 & 0.0234 & OOM & $>$25K \\
+    Lumiere \cite{lumiere} & $>$2B & - & 332.49 & - & - & - & - \\
+    \midrule
+    Reducio-DiT & 1.2B & 81.39 & 318.50 & 291.9 & 0.9824 & 0.0650 & 3.2K \\
+    \bottomrule
+    \end{tabular}
+    \end{table}

@@ -1,0 +1,143 @@
+paper
+"VIDEODIRECTORGPT: CONSISTENT MULTI-SCENE
+VIDEO GENERATION VIA LLM-GUIDED PLANNING. 2024"
+Make a video 2023
+Gen-L-Video 2023
+Free Bloom 2023
+MEVG 2023
+MORA 2023
+Flow Zero 2023
+LLM-GROUNDED VDM 2024
+Vlogger: Make Your Dream A Vlog  2024
+MicroCinema  2024
+WorldGPT 2024
+Video drafter 2024
+SEINE 2023
+Align your Latents  2023
+MAVIN  2024. 
+make a story 2023
+SORA 2024
+controlnet 2023
+videopoet 2023
+longvideo-vqgan.pdf 2022
+Glober-2023.pdf 
+"Tell Me What Happened: Unifying Text-guided Video Completion
+via Multimodal Masked Video Generation 2023"
+Conditional Image-to-Video Generation with Latent Flow Diffusion Models(2023)
+ControlVideo2023
+VersVideo 2024
+FreeNoise 2024
+"Generating Videos with Dynamicsaware
+Implicit Generative
+Adversarial Networks. 2023"
+VIDEO DIFFUSION MODELS 2023
+"Long Video Generation with Time-Agnostic
+VQGAN and Time-Sensitive Transformer 2020"
+Flexible Diffusion Modeling of Long Videos 2022
+SceneScape: Text-Driven Consistent Scene Generation
+"MCVD: Masked Conditional Video Diffusion for
+Prediction, Generation, and Interpolation 2022"
+"LayoutGPT: Compositional Visual Planning and
+Generation with Large Language Models 2024"
+Make-It-4D: Synthesizing a Consistent Long-Term Dynamic Scene Video from a Single Image 2023
+FlexiFilm: Long Video Generation with Flexible Conditions 2024
+Cog Video  2023
+Nuva Infinity 2022
+Make Pixels Dance: High-Dynamic Video Generation 2024
+StyleGan-V (2022)
+DIGAN 2022
+ Phenaki 2023
+REnc-GAN3 (2023)
+PVDM(2023)
+MeBT paper(2023)
+LGCVD
+Generating Long Videos of Dynamic Scenes (2023)
+StoryDiffusion: Consistent Self-Attention for Long-Range Image and Video Generation 2024
+AtomoVideo: High Fidelity Image-to-Video Generation 2024
+LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models 2023
+
+Make-Your-Video: Customized Video Generation Using Textual and Structural Guidance.(2024)
+VideoGPT: Video Generation using VQ-VAE and Transformers (2021)
+Imagen Video: High Definition Video Generation with Diffusion Models (2022)
+FIFO-Diffusion: Generating Infinite Videos from Text without Training (2024)
+TI2V-Zero: Zero-Shot Image Conditioning for Text-to-Video Diffusion Models (2024)
+A Survey of Autoregressive Models for Image and Video Generation
+VBench: Comprehensive Benchmark Suite for Video Generative Models(2023)
+Language Model Beats Diffusion - Tokenizer is key to visual generation (2023)
+Dreamix: Video Diffusion Models are General Video Editors(2024)
+"LongStory: Coherent, Complete and Length Controlled Long story Generation (2023)"
+VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation (2023)
+How Good is my Video LMM? Complex Video Reasoning and Robustness Evaluation Suite for Video-LMMs (2024)
+3D-VLA: A 3D Vision-Language-Action Generative World Model(2024)
+MVBench: A Comprehensive Multi-modal Video Understanding Benchmark(2023)
+Generating Long Videos of Dynamic Scenes (2022)
+peakaboo (2024)
+"Photorealistic Text-to-Image Diffusion Models. 
+with Deep Language Understanding(2022)"
+"FlowZero: Zero-Shot Text-to-Video Synthesis with
+LLM-Driven Dynamic Scene Syntax(2023)"
+"BIVDiff: A Training-Free Framework for General-Purpose Video Synthesis
+via Bridging Image and Video Diffusion Models(2024)"
+A Recipe for Scaling up Text-to-Video Generation with Text-free Videos(2024)
+AVID: Any-Length Video Inpainting with Diffusion Model(2024)
+Fairy: Fast Parallelized Instruction-Guided Video-to-Video Synthesis(2024)
+Snap Video: Scaled Spatiotemporal Transformers for Text-to-Video Synthesis (2024)
+InstructVideo: Instructing Video Diffusion Models with Human Feedback (2024)
+VideoBooth: Diffusion-based Video Generation with Image Prompts (2024)
+FlowVid: Taming Imperfect Optical Flows for Consistent Video-to-Video Synthesis(2024)
+EvalCrafter: Benchmarking and Evaluating Large Video Generation Models(2024)
+"VideoCrafter2: Overcoming Data Limitations for High-Quality
+Video Diffusion Models(2024)"
+Grid Diffusion Models for Text-to-Video Generation (2024)
+Upscale-A-Video: Temporal-Consistent Diffusion Model for Real-World Video Super-Resolution(2024)
+Enabling the Encoder-Empowered GAN-based Video Generators for Long Video Generation(2024)
+Video Generation by Summarizing the Generated Transcript(2024)
+TA2V: Text-Audio Guided Video Generation (2024)
+AcademicVid: Academic PDFs to video generation - Exploratory Literature Survey
+MM-Diffusion: Learning Multi-Modal Diffusion Models for Joint Audio and Video Generation(2024)
+"Vidgen: Long-Form Text-to-Video Generation with Temporal, Narrative and Visual Consistency for High Quality Story-Visualisation Tasks(2024)"
+ Customized Video Generation Using Textual and Structural Guidance(2024)
+A Survey of Cross-Modal Visual Content Generation
+Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models(2024)
+ART-V: Auto-Regressive Text-to-Video Generation with Diffusion Models(2024)
+AtomoVideo: High Fidelity Image-to-Video Generation
+VideoTetris: Towards Compositional Text-to-Video Generation(2024)
+RV-GAN: Recurrent GAN for Unconditional Video Generation (2022)
+A Good Image Generator Is What You Need for High-Resolution Video Synthesis (2021)
+Moonshot: Towards Controllable Video Generation and Editing with Multimodal Conditions(2024)
+"A dataset of text prompts, videos and video quality metrics from generative text-to-video AI models(2024)"
+Generating Videos from Stories Using Conditional GAN (2023)
+Temporally Consistent Transformers for Video Generation(2023)
+ViD-GPT: Introducing GPT-style Autoregressive Generation in Video Diffusion Models(2024)
+Video-Infinity: Distributed Long Video Generation
+High-Resolution Image Synthesis With Latent Diffusion Models CVPR 2022
+DreamFactory: Pioneering Multi-Scene Long Video Generation with a Multi-Agent Framework. 
+Kubrick: Multimodal Agent Collaborations for Synthetic Video Generation
+From Data to Story: Towards Automatic Animated Data Video Creation with LLM-based Multi-Agent Systems
+Infinite-Video: Autoregressive Diffusion for Unbounded Generation
+VideoPoet
+HunYuan
+Hierarchical Patch-wise Diffusion Models for High-Resolution Video Generation
+LongDiff: Training-Free Long Video Generation in One Go
+Video Generation Beyond a Single Clip
+Mask2DiT: Dual Mask-based Diffusion Transformer for Multi-Scene Long Video Generation. https://tianhao-qi.github.io/Mask2DiTProject/
+Create long videos with rich content and long-range coherence from text prompts.
+Is Your World Simulator a Good Story Presenter
+"StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text"
+VideoMerge: Towards Training-free Long Video Generation
+ SlowFast-VGen: Slow-Fast Learning for Action-Driven Long Video Generation
+ARLON: Boosting Diffusion Transformers with Autoregressive Models for Long Video Generation
+ScaleFusion: Scalable Inference of Spatial-Temporal Diffusion Transformers for High-Resolution Long Video Generation
+Goku  Goku: Flow Based Video Generative Foundation Models
+REDUCIO
+Flowing Fidelity to Detail for Efficient High-Resolution Video Generation
+Loong: Generating Minute-level Long Videos with Autoregressive Language Models
+FreeLong 
+mochi
+InfLVG: Reinforce Inference-Time Consistent Long Video Generation with GRPO
+WorldSimBench: Towards Video Generation Models as World Simulators
+LongDiff: Training-Free Long Video Generation in One Go
+google veo3
+From Slow Bidirectional to Fast Autoregressive Video Diffusion Models
+cosmos video generation
+Cosmos World Foundation Model Platform for Physical AI

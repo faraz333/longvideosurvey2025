@@ -1,0 +1,42 @@
+Make a video
+Vlogger: Make Your Dream A Vlog
+Align your Latents
+Tell Me What Happened: Unifying Text-guided Video Completionvia Multimodal Masked Video Generation
+VIDEO DIFFUSION MODELS
+Long Video Generation with Time-AgnosticVQGAN and Time-Sensitive Transformer
+Computer Vision – ECCV
+Flexible Diffusion Modeling of Long Videos
+MCVD: Masked Conditional Video Diffusion forPrediction, Generation, and Interpolation
+LayoutGPT: Compositional Visual Planning andGeneration with Large Language Models
+Make-It-4D: Synthesizing a Consistent Long-Term Dynamic Scene Video from a Single Image
+FlexiFilm: Long Video Generation with Flexible Conditions
+Make Pixels Dance: High-Dynamic Video Generation
+Generating Long Videos of Dynamic Scenes (2023)Generating Long Videos of Dynamic Scenes
+StoryDiffusion: Consistent Self-Attention for Long-Range Image and Video Generation
+AtomoVideo: High Fidelity Image-to-Video Generation
+LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models
+ANCF4g (2023) ICLR
+VideoBooth: Diffusion-based Video Generation with Image Prompts (2024)VideoBooth: Diffusion-based Video Generation with Image PromptsCVPR
+High-Resolution Image Synthesis With Latent Diffusion Models CVPR
+Paper5027 Gen-L-Video 2023
+Free Bloom 2023
+Flow Zero 2023
+Video drafter 2024
+Czsdv-S4-w9)ICLR 2022VIDEO DIFFUSION MODELS 2023 2022
+SceneScape: Text-Driven Consistent Scene Generation(not related)
+Cog Video 2023
+VideoGPT: Video Generation using VQ-VAE and Transformers (2021)
+Meu2Zu ICLR 2024LongStory: Coherent, Complete and Length Controlled Long story Generation (2023)
+Nuero 2022peakaboo (2024)
+Generating Long Videos of Dynamic Scenes
+VideoGPT: Video Generation using VQ-VAE and Transformers
+FIFO-Diffusion: Generating Infinite Videos from Text without Training
+TI2V-Zero: Zero-Shot Image Conditioning for Text-to-Video Diffusion Models
+GL8Lu CVPR 2024Language Model Beats Diffusion - Tokenizer is key to visual generation
+Meu2Zu ICLR 2024LongStory: Coherent, Complete and Length Controlled Long story Generation
+X7qAL8O9YI 2024VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation
+Jb_Bvw9Uoix(2023) 2023How Good is my Video LMM? Complex Video Reasoning and Robustness Evaluation Suite for Video-LMMs
+UrJVEloeWGenerating Long Videos of Dynamic Scenes
+TA2V: Text-Audio Guided Video Generation
+RV-GAN: Recurrent GAN for Unconditional Video Generation
+A_Dataset_of_Text_Prompts_Videos_and_Video_Quality_Metrics_from_Generative_Text-to-Video_AI_Models-2024Generating Videos from Stories Using Conditional GAN
